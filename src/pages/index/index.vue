@@ -1,54 +1,24 @@
 <template>
   <div>
     <i-grid i-class="no-border">
-    <i-grid-item i-class="no-border">
+    <i-grid-item @click="goType(grid)" v-for="grid in grids" :key="grid" i-class="no-border">
         <i-grid-icon>
-            <image src="/static/images/人文历史.png" />
+            <image :src="grid.image" />
         </i-grid-icon>
-        <i-grid-label>人文</i-grid-label>
+        <i-grid-label>{{grid.title}}</i-grid-label>
     </i-grid-item>
-    <i-grid-item i-class="no-border">
-        <i-grid-icon>
-            <image src="/static/images/军事.png" />
-        </i-grid-icon>
-        <i-grid-label>军事</i-grid-label>
-    </i-grid-item>
-    <i-grid-item i-class="no-border">
-        <i-grid-icon>
-            <image src="/static/images/社会.png" />
-        </i-grid-icon>
-        <i-grid-label>社会</i-grid-label>
-    </i-grid-item>
-    <i-grid-item i-class="no-border">
-        <i-grid-icon>
-            <image src="/static/images/探索自然.png" />
-        </i-grid-icon>
-        <i-grid-label>自然</i-grid-label>
-    </i-grid-item>
-    <i-grid-item i-class="no-border">
-        <i-grid-icon>
-            <image src="/static/images/其它.png" />
-        </i-grid-icon>
-        <i-grid-label>其它</i-grid-label>
-    </i-grid-item>
+  
     </i-grid>
     <i-panel title="今日热播">
         <view style="padding: 15px;">
-        <i-card  i-class="split" title="标题" extra="额外内容" thumb="https://i.loli.net/2017/08/21/599a521472424.jpg">
-        <view slot="content">内容不错</view>
-        <view slot="footer">尾部内容</view>
+        <i-card  v-for="item in top" :key="item" i-class="split" :title="item.name" :extra="item.remark" :thumb="item.image">
+        <view slot="content">{{item.remark}}</view>
+        <view slot="footer">{{item.address}}</view>
         </i-card>
-        <i-card i-class="split" title="标题" extra="额外内容" thumb="https://i.loli.net/2017/08/21/599a521472424.jpg">
-        <view slot="content">内容不错</view>
-        <view slot="footer">尾部内容</view>
-        </i-card>
-        <i-card i-class="split" title="标题" extra="额外内容" thumb="https://i.loli.net/2017/08/21/599a521472424.jpg">
-        <view slot="content">内容不错</view>
-        <view slot="footer">尾部内容</view>
-        </i-card>
+
     </view>
     </i-panel>
-    <i-panel title="精品推荐">
+    <i-panel :title="title_name">
     <view style="padding: 10px;">
         <i-card i-class="split" title="标题" extra="额外内容" thumb="https://i.loli.net/2017/08/21/599a521472424.jpg">
         <view slot="content">内容不错</view>
@@ -71,11 +41,29 @@
 export default {
   data () {
     return {
-      
+      title_name:"今日热播",
+      grids:[
+        {title:"人文",image:"/static/images/1.png"},
+        {title:"军事",image:"/static/images/2.png"},
+        {title:"社会",image:"/static/images/3.png"},
+        {title:"自然",image:"/static/images/4.png"},
+        {title:"其它",image:"/static/images/5.png"}
+      ],
+      top:[
+        {name:"点名1",address:"地址1",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍1"},
+        {name:"点名2",address:"地址2",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍2"},
+        {name:"点名3",address:"地址3",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍3"},
+        {name:"点名4",address:"地址4",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍4"}
+      ]
     }
   },
 
   methods: {
+    goType(type){
+      console.log(type)
+      let url = '../list/main?type=' + type.title
+      mpvue.navigateTo({ url })
+    }
   },
 
   created () {
