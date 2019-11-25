@@ -7,13 +7,14 @@
 export default {
   data () {
     return {
-      
+      list:[]
     }
   },
  
-  onLoad (option){
+   onLoad (option){
     console.log(option.type)
-    //this.recommand = require('@/data/' + option.type + '.json')
+    this.list = require('@/data/' + option.type + '.json')
+    console.log(this.list)
   },
 
   methods: {
