@@ -1,5 +1,6 @@
 {  
    "navigationBarTitleText": "大象无形",
+   "navigationBarBackgroundColor":"#50b7c1",
    "usingComponents": {
     "i-grid": "../../../static/dist/grid/index",
     "i-grid-item": "../../../static/dist/grid-item/index",
