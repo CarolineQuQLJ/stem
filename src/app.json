@@ -19,18 +19,18 @@
     "list": [{
       "text": "首页",
       "pagePath": "pages/index/main",
-      "iconPath": "static/tabs/home.png",
-      "selectedIconPath": "static/tabs/home-active.png"
+      "iconPath": "static/images/_home.png",
+      "selectedIconPath": "static/images/home.png"
     }, {
       "text": "片库",
       "pagePath": "pages/FilmLibrary/main",
-      "iconPath": "static/tabs/orders.png",
-      "selectedIconPath": "static/tabs/orders-active.png"
+      "iconPath": "static/images/_film.png",
+      "selectedIconPath": "static/images/film.png"
     }, {
       "text": "我的",
       "pagePath": "pages/mine/main",
-      "iconPath": "static/tabs/orders.png",
-      "selectedIconPath": "static/tabs/orders-active.png"
+      "iconPath": "static/images/_me.png",
+      "selectedIconPath": "static/images/me.png"
     }],
 
     "items": [{
