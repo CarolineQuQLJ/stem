@@ -1,6 +1,5 @@
 <template>
   <div>
-    
     <swiper
       :indicator-dots="indicatorDots"
       :autoplay="autoplay"
@@ -23,6 +22,11 @@
         <i-grid-label>{{grid.title}}</i-grid-label>
     </i-grid-item>
   
+     <view class='title'>
+        <text class='cn'>猜你喜欢</text>
+        <text class='en'>Lovely</text>
+     </view>
+     
     </i-grid>
     <i-panel title="今日热播">
         <view style="padding: 15px;">
