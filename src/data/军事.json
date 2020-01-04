@@ -1,7 +1,7 @@
 [
-    {"id":1,"name":"老街烧烤","address":"漫时区","remark":"连锁品牌","img":"/static/grids/1.png","type":1,"latitude": 30.575702,"longitude": 114.323119},
-    {"id":2,"name":"化骨绵爪武侠主题烧烤","address":"长鑫家园6号商铺","remark":"别具一格的主题烧烤店","img":"/static/grids/1.png","type":1,"latitude": 30.574270,"longitude": 114.330533},
-    {"id":3,"name":"温州特色烧烤","address":"三角花园119号","remark":"味道还不错，很近","img":"/static/grids/1.png","type":1,"latitude": 30.580126,"longitude": 114.331734},
-    {"id":4,"name":"汉森烧烤","address":"学院路9号","remark":"生意非常好","img":"/static/grids/1.png","type":1,"latitude": 30.579295,"longitude": 114.326992},
-    {"id":5,"name":"蒙古大营烤全羊","address":"七星路十字路口","remark":"烤羊不错，要提前预约","img":"/static/grids/1.png","type":1,"latitude": 30.576413,"longitude": 114.339437}
+    {"id":1,"name":"《战争启示录》","introduction":"闪击波兰，英法对德宣战。第二次世界大战爆发，这场人类历史上最残酷战争的导火索究竟是什么？希特勒又为何会对犹太人如此仇恨？","remark":"★★★★☆","img":"cloud://qljsjk-68dcw.716c-qljsjk-68dcw-1301058642/5243fbf2b211931349b797af6a380cd791238d3d.jpg","type":1,"latitude": 30.574270,"longitude": 114.330533},
+    {"id":2,"name":"《天启》","introduction":"《天启》是由法国制作的纪录片，该纪录片以亲历者的视角重现了二战的真相，从世界不同眼光去深入理解第二次世界大战，讲述了这场战争的参与者（士兵）、受害者（民众）以及制造者（政治、军事领导）的悲惨命运。","remark":"★★★★★","img":"https://gss0.baidu.com/9vo3dSag_xI4khGko9WTAnF6hhy/zhidao/wh%3D600%2C800/sign=b6beeecf0746f21fc9615655c6144758/cefc1e178a82b9012be463077e8da9773912efbd.jpg","type":1,"latitude": 30.574270,"longitude": 114.330533},
+    {"id":3,"name":"《红与黑苏日二战交锋录》","introduction":"该片以不为人知的历史细节为切入点，采访了十位曾经亲历苏军出兵远东的苏联老兵，揭秘二战前后日俄的种种关系，为观众讲述苏军出兵远东的实情内幕。","remark":"★★★★★","img":"https://gss0.baidu.com/-fo3dSag_xI4khGko9WTAnF6hhy/zhidao/wh%3D600%2C800/sign=5bf748c05cda81cb4eb38bcb6256fc2e/f11f3a292df5e0fe6fbc2935516034a85edf725a.jpg","type":1,"latitude": 30.580126,"longitude": 114.331734},
+    {"id":4,"name":"《改变世界的战争》","introduction":"71年前的世界反法西斯战争，是一场决定世界前途和人类命运的大决战。以往，无数记录作品都曾对这段历史有过不同视角或不同片段的影像呈现，但把镜头聚焦到世界反法西斯的东方主战场，用国际化的视角，在世界格局中来审视和解读中国人民长达14年的艰苦抗战，长久以来一直是一项空白。","remark":"★★★★★","img":"http://p1.img.cctvpic.com/photoAlbum/vms/standard/img/2016/9/20/VSETKnQDQWYK15spC8qRDK77160920.jpg","type":1,"latitude": 30.579295,"longitude": 114.326992},
+    {"id":5,"name":"《角逐超高空》","introduction":"讲述解放后我国空军在极其艰苦的条件下，努力钻研学习，研制超高空制导导弹技术，与敌对势力斗智斗勇，并最终成功击落敌方高空侦察机的故事。","remark":"★★★★☆","img":"http://p1.img.cctvpic.com/photoAlbum/vms/standard/img/2016/6/30/VSETrnkOne2YpungiLRwakZ0160630.jpg","type":1,"latitude": 30.576413,"longitude": 114.339437}
 ]

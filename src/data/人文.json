@@ -1,7 +1,7 @@
 [
-    {"id":1,"name":"老街烧烤","address":"漫时区","remark":"连锁品牌","img":"/static/grids/1.png","type":1,"latitude": 30.575702,"longitude": 114.323119},
-    {"id":2,"name":"化骨绵爪武侠主题烧烤","address":"长鑫家园6号商铺","remark":"别具一格的主题烧烤店","img":"/static/grids/1.png","type":1,"latitude": 30.574270,"longitude": 114.330533},
-    {"id":3,"name":"温州特色烧烤","address":"三角花园119号","remark":"味道还不错，很近","img":"/static/grids/1.png","type":1,"latitude": 30.580126,"longitude": 114.331734},
-    {"id":4,"name":"汉森烧烤","address":"学院路9号","remark":"生意非常好","img":"/static/grids/1.png","type":1,"latitude": 30.579295,"longitude": 114.326992},
-    {"id":5,"name":"蒙古大营烤全羊","address":"七星路十字路口","remark":"烤羊不错，要提前预约","img":"/static/grids/1.png","type":1,"latitude": 30.576413,"longitude": 114.339437}
+    {"id":1,"name":"《天下赵州（精编版）》","introduction":"该片全景展示河北省赵县（古称赵州）赵州桥的发现经过、兴建过程、建筑之谜，并探寻赵州古石桥对中国桥梁建筑的深远影响；同时揭示唐代高僧从谂禅师（人称赵州老和尚）“吃茶去”禅风公案形成的历史文化背景， 挖掘“吃茶去”禅风和亚洲茶道之间的历史渊源, 探寻禅茶文化给人们日常生活带来的影响。","remark":"★★★★★","img":"http://p1.img.cctvpic.com/fmspic/vms/image/2015/05/05/VSET_1430809514159464.jpg","type":1,"latitude": 30.575702,"longitude": 114.323119},
+    {"id":2,"name":"《追寻宋金时代的别样生活》","introduction":"本片以山西汾阳宋金古墓为主要的讲述主体，以专家讲述为推进，以古画、实物为载体，讲述宋朝时期是市民阶级的“衣食住行”。","remark":"★★★★★","img":"http://p1.img.cctvpic.com/photoAlbum/vms/standard/img/2018/6/14/VSETPDBt1dVXiMzw9dVujIco180614.jpg","type":1,"latitude": 30.574270,"longitude": 114.330533},
+    {"id":3,"name":"《极致玩家》","introduction":"一群热爱自由与冒险的极致玩家，在茫茫的雪山之巅，蔚蓝的大海之上，荒芜的戈壁之中，面对着自然的危险，体验着内心的孤寂。奔跑的双腿，转动的车轮，他们在旅途中邂逅了最美的风景，在实现梦想的道路上，内心的坚持与不懈，让他们找回了最本真的自我。","remark":"★★★★★","img":"http://p3.img.cctvpic.com/fmspic/vms/image/2015/11/24/VSET_1448353761263287.jpg","type":1,"latitude": 30.580126,"longitude": 114.331734},
+    {"id":4,"name":"《行走的餐桌 第一季》","introduction":"《行走的餐桌》是“活力中国”现实类纪录节目的“重头戏”，节目将通过体验者寻找独特美食的旅程，展现中国饮食文化的博大精深，地域文化的异彩纷呈。","remark":"★★★★★","img":"http://p2.img.cctvpic.com/fmspic/vms/image/2013/07/16/VSET_1373961342902885.jpg","type":1,"latitude": 30.579295,"longitude": 114.326992},
+    {"id":5,"name":"《野性“淘淘”》","introduction":"三集纪录片《野性“淘淘”》由中国野生动物保护协会和中国保护大态猫研究中心联合出品，该片摄制组历时五年跟踪拍摄，见证了全球首只在野化培训基地诞生的大熊猫”淘淘”的成长历程和它的”回家”之路；见证了卧龙动物保护者与大熊猫不离不弃、生死相依的往事，以及他们为卧龙灾后重建所付出的努力。","remark":"★★★★☆","img":"http://p2.img.cctvpic.com/fmspic/vms/image/2013/07/16/VSET_1373961299662299.jpg","type":1,"latitude": 30.576413,"longitude": 114.339437}
 ]

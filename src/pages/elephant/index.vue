@@ -73,11 +73,11 @@ export default {
   height: 280rpx;
   display: flex;
   flex-direction: column;
-  align-items: left;
+  align-items: center;
 }
  
 .userinfo-avatar {
-  position: left;
+  
   overflow:hidden;
   display: flex;
   width: 130rpx;
@@ -87,6 +87,4 @@ export default {
   border-radius: 50%;
   border: 2px solid #fff;
 }
-
-
 </style>

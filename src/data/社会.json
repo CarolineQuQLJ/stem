@@ -1,7 +1,7 @@
 [
-    {"id":1,"name":"老街烧烤","address":"漫时区","remark":"连锁品牌","img":"/static/grids/1.png","type":1,"latitude": 30.575702,"longitude": 114.323119},
-    {"id":2,"name":"化骨绵爪武侠主题烧烤","address":"长鑫家园6号商铺","remark":"别具一格的主题烧烤店","img":"/static/grids/1.png","type":1,"latitude": 30.574270,"longitude": 114.330533},
-    {"id":3,"name":"温州特色烧烤","address":"三角花园119号","remark":"味道还不错，很近","img":"/static/grids/1.png","type":1,"latitude": 30.580126,"longitude": 114.331734},
-    {"id":4,"name":"汉森烧烤","address":"学院路9号","remark":"生意非常好","img":"/static/grids/1.png","type":1,"latitude": 30.579295,"longitude": 114.326992},
-    {"id":5,"name":"蒙古大营烤全羊","address":"七星路十字路口","remark":"烤羊不错，要提前预约","img":"/static/grids/1.png","type":1,"latitude": 30.576413,"longitude": 114.339437}
+    {"id":1,"name":"《北京蜘蛛人》","introduction":"北京，一座在空间维度上正向周边和上空高速生长膨胀的城市，同时也是一座在社会维度上正努力尝试扩容的城市。本片试图通过描摹特殊职业高空清洁中的普通蜘蛛人的工作、起居和生活状况，呈现一个急速发展中的新北京社会形态。","remark":"★★★★☆","img":"http://p1.img.cctvpic.com/photoAlbum/vms/standard/img/2017/4/28/VSETEemvmtrSWEuNLgUh4qlZ170428.jpg","type":1,"latitude": 30.575702,"longitude": 114.323119},
+    {"id":2,"name":"《追风少年》","introduction":"2014年年初，云南省盲人足球队再次集结。这是一支半职业球队，一边是对足球的狂热，一边是尴尬困窘的现实生活：32岁的“老虎”是国家队队长，但他的盲人按摩店已入不敷出；23岁的“老魏”至今找不到工作；14岁的康康希望踢球能改变命运。没人知道，2015年的全运会过后，足球队员该何去何从？故事就此展开。","remark":"★★★★★","img":"http://p1.img.cctvpic.com/photoAlbum/vms/standard/img/2017/4/28/VSETSMPd5Q1AKKohzSUwH60G170428.jpg","type":1,"latitude": 30.574270,"longitude": 114.330533},
+    {"id":3,"name":"《疯狂摄影师》","introduction":"跟着摄影师的脚步，开始一段极不平常的发现之旅。摄制组将用真实的影像忠实纪录摄影师如何克服路途中无法预期的困难险阻，去探寻一个未知的世界。同时用手中的相机、摄影机记录下来难以一见的神奇地球奇观。对中国极具探险、发现精神的摄影师工作状态的一次全面记录和展现。揭开一个个人类未知领域的神秘面纱，看到这一幅幅神奇的影像是如何被打造出来的。通过本片，让观众在跟随主人公的工作和情感的过程中，去触摸和体味充满质感的神奇地球。","remark":"★★★★★","img":"http://p1.img.cctvpic.com/photoAlbum/vms/standard/img/2017/4/28/VSET8TA6ywV0oIMDrdUisq0d170428.jpg","type":1,"latitude": 30.580126,"longitude": 114.331734},
+    {"id":4,"name":"《深海兄弟》","introduction":"主人公魏建仓带领他的水下无人机设计团队从设计理念，到手绘成型，三维建模打印雏形，最后进行海水中试验的全过程。","remark":"★★★★☆","img":"http://p1.img.cctvpic.com/photoAlbum/vms/standard/img/2017/2/27/VSETMWhAMhTfrFOA352K3jdC170227.jpg","type":1,"latitude": 30.579295,"longitude": 114.326992},
+    {"id":5,"name":"《金融风波1948》","introduction":"通过表现中国40年代末到50年代初，物价风波从产生到最终平定的这段历史，通过紧张而又智慧的金融战，阐述先进的新体制必将取代落后的旧体制。","remark":"★★★★☆","img":"http://p1.img.cctvpic.com/photoAlbum/vms/standard/img/2017/3/28/VSETJ8cYeXExVaBOmc2kPxQu170328.jpg","type":1,"latitude": 30.576413,"longitude": 114.339437}
 ]

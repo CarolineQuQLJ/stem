@@ -1,7 +1,7 @@
 [
-    {"id":1,"name":"老街烧烤","address":"漫时区","remark":"连锁品牌","img":"/static/grids/1.png","type":1,"latitude": 30.575702,"longitude": 114.323119},
-    {"id":2,"name":"化骨绵爪武侠主题烧烤","address":"长鑫家园6号商铺","remark":"别具一格的主题烧烤店","img":"/static/grids/1.png","type":1,"latitude": 30.574270,"longitude": 114.330533},
-    {"id":3,"name":"温州特色烧烤","address":"三角花园119号","remark":"味道还不错，很近","img":"/static/grids/1.png","type":1,"latitude": 30.580126,"longitude": 114.331734},
-    {"id":4,"name":"汉森烧烤","address":"学院路9号","remark":"生意非常好","img":"/static/grids/1.png","type":1,"latitude": 30.579295,"longitude": 114.326992},
-    {"id":5,"name":"蒙古大营烤全羊","address":"七星路十字路口","remark":"烤羊不错，要提前预约","img":"/static/grids/1.png","type":1,"latitude": 30.576413,"longitude": 114.339437}
+    {"id":1,"name":"《创新中国》","introduction":"讲述中国最新科技成就和创新精神的纪录片。它关注最前沿的科技突破、最新潮的科技热点，聚焦信息、制造、生命、能源、空间与海洋等深具影响的领域，在宏大的国际视野里探讨中国的创新成长以及由此引领的世界影响。该片在制作中创新性地使用了语音合成技术，是世界首部采用人工智能配音的大型纪录片。","remark":"★★★★★","img":"http://p1.img.cctvpic.com/photoAlbum/vms/standard/img/2018/1/17/VSETTp8tsQ2O4yfTdnwoab2c180117.jpg","type":1,"latitude": 30.575702,"longitude": 114.323119},
+    {"id":2,"name":"《大国外交》","introduction":"国际格局和世界秩序正深刻演变，中国正前所未有地走近世界舞台中心。五年来，在以习近平同志为核心的党中央的坚强领导下，中国特色大国外交展开了波澜壮阔的历史征程，谱写了构建人类命运共同体的辉煌史诗。","remark":"★★★★★","img":"http://p1.img.cctvpic.com/photoAlbum/vms/standard/img/2017/11/7/VSETWhxYTgCgp7DDAgrodG7o171107.jpg","type":1,"latitude": 30.574270,"longitude": 114.330533},
+    {"id":3,"name":"《零零后》","introduction":"2006年，摄制组开始在一所幼儿园跟踪记录了十多位00后的孩子，记录一直持续了十年。孩子们从幼儿园到小学再到中学。十年过去，时间改变了他们的外貌，赋予了他们独立的思想和自主的行动。他们将如何突破青春的困惑？他们将怎样选择未来的生活？这是中国唯一长时间记录孩子成长的纪录片，用影像探索00后的孩子有着怎样的成长秘密。父母、社会、学校对孩子的成长会产生怎样的影响？展现十年的成长，凸显时间的力量。","remark":"★★★★★","img":"http://p1.img.cctvpic.com/photoAlbum/vms/standard/img/2017/8/21/VSETWR4ws6LlNbtSQzRcIkPG170821.jpg","type":1,"latitude": 30.580126,"longitude": 114.331734},
+    {"id":4,"name":"《品牌的奥秘》","introduction":"该片通过品牌的窗口观察世界，为中国品牌经济的未来和发展寻找支点和方向，探究其与国家文化、文化传承的紧密关联，力求在历史、文化与社会的大背景下，对全球顶级品牌的诞生、维系与传承、挫折与发展进行全景式描述。","remark":"★★★★★","img":"http://p1.img.cctvpic.com/photoAlbum/vms/standard/img/2016/3/31/VSET80hIarIAspH0xU4uisTV160331.jpg","type":1,"latitude": 30.579295,"longitude": 114.326992},
+    {"id":5,"name":"《云上的乐声》","introduction":"本片讲述4个孤独症的孩子在交响乐团中，通过音乐改变自己，得到尊重和尊严，他们不需要别人的同情和怜悯，从不把自己看作另类的孩子，而是与普通人一样热爱生活，快乐成长的故事。","remark":"★★★★★","img":"http://p1.img.cctvpic.com/photoAlbum/vms/standard/img/2016/3/21/VSETBScrbZVyLotYokoTDtgv160321.jpg","type":1,"latitude": 30.576413,"longitude": 114.339437}
 ]

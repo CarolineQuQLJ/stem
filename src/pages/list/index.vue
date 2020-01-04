@@ -1,29 +1,32 @@
-<template>
+  <template>
   <div>
-    <i-card  v-for="item in list" :key="item" i-class="split" :title="item.name" :extra="item.remark" :thumb="item.image">
-        <view slot="content">{{item.remark}}</view>
-        <view slot="footer">{{item.address}}</view>
-    </i-card>
+    <i-panel title="  ">
+      <view>
+        <i-card i-class="split" v-for="item in recommand" :key="item" :extra="item.name" :thumb="item.img">
+            <view slot="content">推荐：{{item.remark}}</view>
+            <view slot="footer">地址：{{item.introduction}}</view>
+        </i-card>
+      </view>
+    </i-panel>
   </div>
 </template>
 
 <script>
-export default {
+
+export default{
   data () {
     return {
       list:[]
     }
   },
  
-   onLoad (option){
+  onLoad (option){
     console.log(option.type)
     this.list = require('@/data/' + option.type + '.json')
-    console.log(this.list)
   },
 
   methods: {
   },
-
   created () {
   }
 }
